@@ -1,5 +1,5 @@
 # Mfon
-A simple shopping cart application written in C#.
+A simple shopping cart console application written in C#.
 
 ![alt text](image.png)
 
