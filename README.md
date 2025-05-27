@@ -1,6 +1,8 @@
 # Mfon
 A simple shopping cart application written in C#.
 
+![alt text](image.png)
+
 ## Features
 - The application allows users to select products from a list of products.
 - The application allows users to add products to their cart.
